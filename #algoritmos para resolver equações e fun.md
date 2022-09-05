@@ -1,0 +1,1 @@
+#algoritmos para resolver equações e funções.
